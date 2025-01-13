@@ -1,0 +1,8 @@
+opencv-python==4.10.0.84
+numpy==1.24.4
+pykinect-azure==0.0.4
+setuptools==59.5.0
+
+
+
+
